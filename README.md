@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Ka Wa Yip.
 
-[![Ka Wa Yip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwyip)]
+![Ka Wa Yip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwyip)
 <!--
 **kwyip/kwyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
