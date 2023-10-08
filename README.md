@@ -1,7 +1,6 @@
 <meta name="google-site-verification" content="d-oQrjD29gKB42wT9Rhj8L-PAleVerntO_fhWYtveds" />
 
-### Hi there 👋
-My name is Ka Wa Yip.
+### Hello there 👋
 
 ![Ka Wa Yip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwyip)
 
