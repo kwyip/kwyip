@@ -1,8 +1,11 @@
 <meta name="google-site-verification" content="d-oQrjD29gKB42wT9Rhj8L-PAleVerntO_fhWYtveds" />
 
-### Hello there 👋
+### Hello there 👋 <img width="43" height="69" alt="150x50" src="https://github.com/user-attachments/assets/7cd35ce0-98e1-40f3-b732-a2977d38639e"/>
 
-![Ka Wa Yip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwyip)
+<!--![Ka Wa Yip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwyip)-->
+
+
+<!--![![Ka Wa Yip's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kwyip&show_icons=true&theme=macos_light)-->
 
 <!--
 **kwyip/kwyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
