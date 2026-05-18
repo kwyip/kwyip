@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="d-oQrjD29gKB42wT9Rhj8L-PAleVerntO_fhWYtveds" />
 
-### Hello there 👋 <img width="43" height="69" alt="150x50" src="https://github.com/user-attachments/assets/7cd35ce0-98e1-40f3-b732-a2977d38639e"/>
+### Hello there 👋 👋 👋
 
 <!--![Ka Wa Yip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwyip)-->
 
