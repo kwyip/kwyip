@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+<a href="https://stackoverflow.com/users/4143312/ka-wa-yip">
   <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/4143312?theme=default&website=true&location=true" alt="user:4143312's SO profile">
 </a>
